@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=catacula
+Comment=
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=catacula
+MetacityTheme=catacula
+IconTheme=catacula
+CursorTheme=catacula
+ButtonLayout=close,minimize,maximize:menu
